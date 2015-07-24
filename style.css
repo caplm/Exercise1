@@ -1,0 +1,33 @@
+header h1{
+  background-color: #E6E4DC;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-size: 3.5em;
+  margin: 2px;
+  text-align: center;
+  text-shadow: 1px 1px 2px black;
+  border-style: dashed; 
+}
+header{
+padding-top: 10px;
+padding-left: 10px;
+padding-right: 10px;
+padding-bottom: 10px;
+}
+article p{
+color: teal;
+background-color: yellow;
+}
+section h2{
+text-align: left;
+}
+aside section p{
+text-decoration: underline;
+}
+
+p.green{
+color: #22B348;
+}
+
+ul{
+  list-style-type: square;
+}
